@@ -1,4 +1,12 @@
 {
-    "editor.fontSize": 18,
-    "debug.console.fontSize": 16
+    "editor.fontSize": 22,
+    "debug.console.fontSize": 20,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.localEchoExcludePrograms": [
+        "vim",
+        "vi",
+        "nano",
+        "tmux",
+        "leafpad"
+    ]
 }
